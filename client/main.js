@@ -49,7 +49,7 @@ if (access_token && (state == null || state !== storedState)) {
 *
 */
 function loginButton(){
-    let client_id = '693fb83da10949d1bc8e698f68a244e9' // Your client id
+    let client_id = 'YOUR_ID_HERE' // Your client id
     let redirect_uri = 'http://localhost:8888' // Your redirect uri
 
     let state = generateRandomString(16);
