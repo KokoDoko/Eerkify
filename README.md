@@ -6,7 +6,7 @@ Spotify API for little robots
 
 This is just a cleaned up version of the official Spotify example, removing everything but the bare essentials. 
 
-Use [Implicit Grant flow](https://developer.spotify.com/documentation/general/guides/authorization-guide/), running entirely in the client browser. 
+This project uses [Implicit Grant flow](https://developer.spotify.com/documentation/general/guides/authorization-guide/), running entirely in the client browser, but without the ability to refresh the token.
 
 ## Installing
 
