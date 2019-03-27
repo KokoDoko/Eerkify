@@ -4,9 +4,9 @@ Spotify API for little robots
 
 ![bmo](bmo.gif)
 
-This uses Spotify [Implicit Grant flow](https://developer.spotify.com/documentation/general/guides/authorization-guide/), running entirely in the client browser.
+This is just a cleaned up version of the official Spotify example, removing everything but the bare essentials. 
 
-This is a cleaned up version of the official Spotify example, removing everything but the bare essentials.
+Use [Implicit Grant flow](https://developer.spotify.com/documentation/general/guides/authorization-guide/), running entirely in the client browser. 
 
 ## Installing
 
